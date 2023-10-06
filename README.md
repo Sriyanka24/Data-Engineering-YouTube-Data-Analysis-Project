@@ -1,8 +1,8 @@
-# Data Engineering Youtube Analysis Project
+# Data Engineering YouTube Analysis Project
 
 ## Overview
 
-This project involves leveraging the power of AWS services to conduct end-to-end data analysis on Kaggle's YouTube dataset. It serves as a valuable opportunity to further enrich my practical expertise in AWS.
+This project involves leveraging the power of AWS services to conduct end-to-end data analysis on YouTube dataset from Kaggle. It serves as a valuable opportunity to further enrich my practical expertise in AWS.
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
