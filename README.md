@@ -9,11 +9,11 @@ This project involves leveraging the power of AWS services to conduct end-to-end
 
 ## Project Tasks
 1. Data Ingestion — Build a mechanism to ingest data from different sources
-2. ETL System — We are getting data in raw format, transforming this data into the proper format
-3. Data lake — We will be getting data from multiple sources so we need centralized repo to store them
-4. Scalability — As the size of our data increases, we need to make sure our system scales with it
-5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
-6. Reporting — Build a dashboard to get answers to the question we asked earlier
+2. ETL System — transforming raw data ingested from various sources into the suitable format
+3. Data lake — A centralized repo to store the data
+4. Scalability — Increasing the scalability based on the size of the data
+5. Cloud — To process vast amounts of data
+6. Reporting — Build a dashboard to get answers from the data
 
 ## Services Used
 1. Amazon S3
